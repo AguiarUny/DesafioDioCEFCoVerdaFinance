@@ -149,20 +149,37 @@ Criar uma experiência fluida onde o usuário **conversa** naturalmente sobre se
 ```
 --- 
 
-- Prints ou pequenos vídeos das interações com a IA;  
+## Capturas de telas
 
-![Captura de Tela: Login](Projeto/Captura de tela de 2025-12-14 13-33-55.png "Captura de Tela: Login")
+### Tela de Login
+
+![Captura de Tela: Login](./Projeto/CapturaTelaLogin.png "Captura de Tela: Login")
+
+### Tela de Dashboard
+
+![Captura de Tela: Dashboard](./Projeto/CapturaTelaDashboard.png "Captura de Tela: Dashboard")
+
+
+![Captura de Tela: Dashboard 2](./Projeto/CapturaTelaDashboard02.png "Captura de Tela: Dashboard 2")
+
+
+![Captura de Tela: Dashboard 3](./Projeto/CapturaTelaDashboard03.png "Captura de Tela: Dashboard 3")
 
 ## Resumo do que o **App de Finanças Pessoais** faz; 
 
 Finanças ConVersa é um aplicativo de organização financeira pessoal que simplifica o controle de gastos através de uma interface de chat. Em vez de preencher formulários, o usuário simplesmente conversa com o aplicativo, descrevendo suas despesas em linguagem natural (ex: "Comprei um café por R$ 15"). A inteligência artificial do app extrai, categoriza e salva a transação automaticamente. Além do registro de gastos, a aplicação oferece um painel com resumos visuais, gastos por categoria e dicas semanais personalizadas para ajudar o usuário a atingir suas metas de economia.
 
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+## Breve **reflexão sobre o processo**:
 
+- **O que funcionou bem?**  
+A utilização da IA para aprimorar as descrições e definir o escopo do aplicativo em desenvolvimento destacou-se como um dos pilares do sucesso neste ciclo. O conceito de **Vibe Coding** mostrou-se eficaz justamente quando conseguimos, como profissionais, traduzir a intenção do projeto em comandos claros e contextualizados. A IA, por sua vez, foi capaz de expandir ideias iniciais, sugerir estruturas mais coesas e oferecer formulações técnicas precisas, acelerando significativamente a fase de documentação e planejamento. Esse fluxo reforça que a qualidade do *input* humano — ou seja, a clareza na definição dos objetivos, do público-alvo e das funcionalidades — é decisiva para gerar *outputs* relevantes e acionáveis por parte da ferramenta.
 
-## 💬 Conclusão
+- **O que não funcionou como o esperado?**  
+Em alguns momentos, as IAs apresentaram interpretações muito literais ou genéricas, desviando-se ligeiramente do contexto específico do projeto. Esses "devaneios" resultaram em sugestões que, embora não comprometessem o andamento, exigiam realinhamento. No entanto, a experiência mostrou que o problema raramente estava na ferramenta em si, mas na forma como o comando foi estruturado. Pequenos refinamentos nos *prompts* — como adicionar exemplos, limitar o escopo da resposta ou especificar o formato desejado — foram suficientes para redirecionar a IA e garantir execuções muito mais assertivas e alinhadas com a necessidade real.
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+- **O que você aprendeu sobre conversar com IAs?**  
+A principal lição é que a comunicação com sistemas de IA assemelha-se a um diálogo iterativo e estruturado, não a um comando unilateral. Para extrair o máximo valor, é preciso:  
+1. **Ser explícito e contextualizado**: Fornecer antecedentes, definir termos-chave e deixar claras as restrições do projeto.  
+2. **Ser objetivo e específico**: Evitar abstrações; quanto mais concreto for o pedido, mais útil será a resposta.  
+3. **Adotar uma postura de refinamento progressivo**: A primeira resposta da IA é um rascunho; ajustes no *prompt* com base no resultado anterior levam a outputs de qualidade superior.  
+Em resumo, a eficiência na interação depende diretamente da nossa capacidade de atuar não apenas como solicitantes, mas como **orientadores** da IA, fornecendo o contexto e a precisão necessários para que ela opere como uma extensão do nosso raciocínio técnico e criativo.
