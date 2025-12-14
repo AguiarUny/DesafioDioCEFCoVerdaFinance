@@ -151,7 +151,7 @@ Criar uma experiência fluida onde o usuário **conversa** naturalmente sobre se
 
 - Prints ou pequenos vídeos das interações com a IA;  
 
-![Captura de Tela: Login](./Projeto/Captura de tela de 2025-12-14 13-33-55.png "Captura de Tela: Login")
+![Captura de Tela: Login](Projeto/Captura de tela de 2025-12-14 13-33-55.png "Captura de Tela: Login")
 
 ## Resumo do que o **App de Finanças Pessoais** faz; 
 
