@@ -8,8 +8,6 @@ Foram usados neste trabalho, as ferramentas de AI:
 
 ## Entrega
 
-No README do seu repositório, inclua:
-
 ### Prompt final (PRD)
 
 #### PRD - Aplicativo de Organização Financeira por Conversa (MVP)
@@ -152,15 +150,18 @@ Criar uma experiência fluida onde o usuário **conversa** naturalmente sobre se
 --- 
 
 - Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+
+![Captura de Tela: Login](./Projeto/Captura de tela de 2025-12-14 13-33-55.png "Captura de Tela: Login")
+
+## Resumo do que o **App de Finanças Pessoais** faz; 
+
 Finanças ConVersa é um aplicativo de organização financeira pessoal que simplifica o controle de gastos através de uma interface de chat. Em vez de preencher formulários, o usuário simplesmente conversa com o aplicativo, descrevendo suas despesas em linguagem natural (ex: "Comprei um café por R$ 15"). A inteligência artificial do app extrai, categoriza e salva a transação automaticamente. Além do registro de gastos, a aplicação oferece um painel com resumos visuais, gastos por categoria e dicas semanais personalizadas para ajudar o usuário a atingir suas metas de economia.
+
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
   - O que não funcionou como o esperado?  
   - O que aprendeu sobre conversar com IAs?
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Conclusão
 
